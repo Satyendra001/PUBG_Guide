@@ -1,5 +1,62 @@
 [
   {
     "point": "1. Remember to put away your weapon (the X key on PC), meaning you can sprint six per cent faster."
+  },
+  {
+    "point": "2. In the pre-game, take off your shoes! Barefoot running is the same speed as running with shoes, but you're noticeably quieter on most surfaces."
+  },
+  {
+    "point": "3. To refuel, the vehicle needs to be completely static, but you can still refuel from within the car by right-clicking the cannister in your inventory."
+  },
+  {
+    "point": "4. Use map markers at all times, and call out specific directions (numbers as well as North/South/East/West) when in a team."
+  },
+  {
+    "point": "5. You can stay in the game's voice chat, but set your own chat to party-only - occasionally you'll overhear enemy teams who forgot to set theirs to private."
+  },
+  {
+    "point": "6. Remember to toggle your rate of fire with the B key or left on the d-pad on console."
+  },
+  {
+    "point": "7. There are not two, but three types of aiming. Hip fire, a more accurate hip-fire (holding right mouse-button), and aiming-down-sights ('ADS', by tapping right mouse-button). You'll also be able to change the settings to go straight to ADS by holding right-click rather than toggling it on/off."
+  },
+  {
+    "point": "8. Big towns under the flight path are dangerous places to start, but normally have better loot. For the best chance of success, find small clusters of buildings right at the edge of parachuting range, or use one of the other more detailed, situational strategies to get even better loot, which you'll find in our Erangel map article."
+  },
+  {
+    "point": "9. The key things you want to find as soon as possible are the good-in-most-situations assault rifles (ARs), a backpack, a bulletproof vest, healing items, and a helmet - the higher level for these items, the better."
+  },
+  {
+    "point": "10. All doors in the game start closed. If a door is open, someone's been there. If you leave a door open, you're telling the world you've been there too."
+  },
+  {
+    "point": "11. There is fall damage, which occurs from jumping around two stories, with more damage the higher the fall."
+  },
+  {
+    "point": "12. If you take fire from range and don't know where it's from, don't go prone - you just make yourself a sitting duck right in the enemy's line of sight. Instead, zig-zag and sprint until you get to cover and break line of sight. Getting over the brow of a hill is great for this, as is the classic 'cheese it!' strategy in a vehicle (just drive away really fast)."
+  },
+  {
+    "point": "13. Always clear buildings (unless you're very rushed) before looting. It's very easy to bait people into feeling secure by leaving loot on the ground, then shoot them in the back."
+  },
+  {
+    "point": "14. When fighting multiple enemies, ignore any that you down. They can't get up unless rescued, so prioritise the ones who can still attack you."
+  },
+  {
+    "point": "15. Vehicles are great at covering large distances at speed, but draw huge amounts of attention with their noise. Use them wisely."
+  },
+  {
+    "point": "16. Vehicles will roll down hills, and explode when they hit things at speed. Park sideways on sloped terrain to stop them rolling away, and if you crash get away from the vehicle ASAP."
+  },
+  {
+    "point": "17. Not all scopes work with all guns - you can't put the 8x Scope on the M16 for instance, which was made an exception for balance purposes. Likewise you can't put an 8x on SMGs."
+  },
+  {
+    "point": "18.Learn which helmets can take which amount of damage - a Kar98, the most commonly found and used sniper, can kill you instantly with a headshot if you have a Level 2 helmet or below, but a level 3 helmet can take a hit. Note what helmet opponents have before you start trading sniper fire, as there's no point if you're at a disadvantage."
+  },
+  {
+    "point": "19. After the beginning the game, pistols are almost completely pointless - only keep one if you either have the automstic pistol (P18C), which works like an SMG, or if you don't have good weapons or much ammo for them - otherwise, pistol ammo is wasting precious inventory space."
+  },
+  {
+    "point": "20. Damaged high-level armour is actually often worse than undamaged low-level armour. Look at the number next to it in your inventory for a comparison."
   }
 ]
