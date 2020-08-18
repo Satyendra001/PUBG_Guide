@@ -18,5 +18,22 @@
         "point": "Uzi - As you might imagine, the Uzi is best for close quarters combat, and close quarters combat only. While it does have a single shot mode, the accuracy and recoil of the Uzi are poor, meaning you should realistically save it for battles within buildings."
       }
     ]
+  },
+  {
+    "title": "PUBG Best Long Range Guns",
+    "points": [
+      {
+        "point": "M24 Sniper - This sniper might be the most powerful of the bunch, and can generally kill a player with one shot to the head, no matter their health. The M24 does pack some kick in the recoil though, and the bullet drop means you’ll have to aim your shots carefully."
+      },
+      {
+        "point": "SCAR - Arguably one the most popular weapons in Battlegrounds, the SCAR has a fairly high rate of fire, and generally kills most people in around 4 hits."
+      },
+      {
+        "point": "M416 - Perhaps the standard assault rifle in PUBG, the M416 can be changed to fire in single or burst firing modes, and doesn’t carry a whole lot of recoil, meaning it can effectively be used in all situations."
+      },
+      {
+        "point": "Crossbow - The Crossbow is a specialist weapon in Battlegrounds, able to pick players off from long distances in mostly a single hit, but takes an incredibly long time to reload. On top of this, the bolts from the Crossbow travel very slowly, meaning you’ll have to time your shots just right in order to hit anyone."
+      }
+    ]
   }
 ]
